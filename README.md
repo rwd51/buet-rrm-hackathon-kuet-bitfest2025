@@ -1,4 +1,7 @@
 # API Documentation
+## Swagger API documentation 
+<img width="1409" alt="Screenshot 2024-12-21 at 10 06 42 PM" src="https://github.com/user-attachments/assets/232583ee-e492-4442-9def-db54427a84a4" />
+
 
 ## Recipes API
 
